@@ -40,5 +40,4 @@ const logUserIn = async () => {
     }
 }
 
-
 </script>
